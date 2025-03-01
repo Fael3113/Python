@@ -9,4 +9,4 @@ print(x)
 y = set(x)
 print(y)
 
-print("A lista tem {} números de 0 a 10000 aleatórios, e há {} números sem repetição". format(len(x), len(y)))
+print("A lista tem {} números de 0 a 100 aleatórios, e há {} números sem repetição". format(len(x), len(y)))
