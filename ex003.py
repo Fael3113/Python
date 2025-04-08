@@ -1,0 +1,6 @@
+n1 = float(input('Digite um número: '))
+n2 = float(input('Digite outro número: '))
+s = n1+n2
+m = n1*n2
+print("Soma: ", s)
+print("Multiplicação: ", m)
